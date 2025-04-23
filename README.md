@@ -26,6 +26,7 @@ Web Speech API
 📸 Screenshot
 ![Screenshot (16)](https://github.com/user-attachments/assets/b62e3c5e-ae76-4b87-b051-a4117626289a)
 
+Live demo: https://texttospeechconverter-shruti.netlify.app/
 
 📦 How to Use
 Clone the repository: https://github.com/shruticl-03/Text-To-Speech-Converter.git
@@ -33,7 +34,7 @@ Clone the repository: https://github.com/shruticl-03/Text-To-Speech-Converter.gi
 bash
 Copy
 Edit
-git clone https://github.com/your-username/text-to-speech-converter.git
+git clone https://github.com/shruticl-03/Text-To-Speech-Converter.git
 Open index.html in your browser.
 
 Type or paste any text, select a voice, and click Speak!
